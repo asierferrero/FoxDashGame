@@ -40,5 +40,4 @@ dying.
 - Best score: This was added for the user to know what is the highest score of the game.
   
 ## Game preview
-https://github.com/Multimedia-2023-24/game-unity-asierferrero/assets/114483674/1bd811cc-320d-440b-a074-52d754eb9189
-
+https://github.com/Multimedia-2023-24/game-unity-asierferrero/assets/114483674/a88280ff-73ef-4077-bd4d-f5639c3aac35
