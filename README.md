@@ -6,6 +6,9 @@ Following tutorial: [Platformer Game Tutorial](https://www.youtube.com/watch?v=r
 
 The assets were taken from [Sunny Land](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349) presets.
 
+## Game Trailer
+https://github.com/Multimedia-2023-24/game-unity-asierferrero/assets/114483674/a88280ff-73ef-4077-bd4d-f5639c3aac35
+
 ## First ideas
 The tutorial explains how to do that in Unity, but there are some things that need to be added to the game (new features):
 - Exit Game: An option to allow players to exit the game from the main menu.
@@ -38,6 +41,3 @@ dying.
 - Two players mode: This wasn't added as I see no sense putting a two players mode on this type of game.
 - Checkpoints: These are the home located at the final of the level. (If player lose all the lives he has to start from scratch)
 - Best score: This was added for the user to know what is the highest score of the game.
-  
-## Game preview
-https://github.com/Multimedia-2023-24/game-unity-asierferrero/assets/114483674/a88280ff-73ef-4077-bd4d-f5639c3aac35
